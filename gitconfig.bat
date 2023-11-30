@@ -1,2 +1,2 @@
-git config user.name Ádám
-git config user.email adam@
+git config user.name asd
+git config user.email asd
