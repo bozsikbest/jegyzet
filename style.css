@@ -7,3 +7,36 @@
 p {
     font-size: 20px;
 }
+.w70 {
+    width: 70%;
+}
+.w50 {
+    width: 50%;
+}
+
+.jobb {
+    margin-right: 0;
+    margin-left: auto;
+}
+.kozep {
+    margin-right: auto;
+    margin-left: auto;
+}
+.sarok3 {
+    border-radius: 3px;
+}
+.sarok5 {
+    border-radius: 5px;
+}
+.sarok10 {
+    border-radius: 10px;
+}
+.keret-piros {
+    border-color: red;
+}
+.keret-zold {
+    border-color: green;
+}
+.keret-kek {
+    border-color: blue;
+}
