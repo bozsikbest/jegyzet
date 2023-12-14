@@ -42,3 +42,12 @@ p {
 }
 
 /* Kombináld őket!! */
+
+table {
+    width: 600px;
+    height: 600px;
+}
+
+.fekete-hat {
+    background: black;
+}
